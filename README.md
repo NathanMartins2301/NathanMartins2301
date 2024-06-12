@@ -1,7 +1,7 @@
 ### Olá, eu sou Nathan 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React + Typescript
+- 🔭 Software Engineer dedicated to integrating front-end and back-end to offer innovative and intuitive solutions.
+- 🌱 Studing JavaScritp, React, Node, TypeScript and GoLang
 
 <div>
   <a href="https://github.com/NathanMartins2301">
